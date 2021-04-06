@@ -1,3 +1,4 @@
+![logo](https://github.com/Naze-dev/botwa/blob/0ba2d0a622a37fcdff62979358e1c5e40720e343/20210406_154034.jpeg)
 # wabotv4
 
 Simple WhatsApp Bot
